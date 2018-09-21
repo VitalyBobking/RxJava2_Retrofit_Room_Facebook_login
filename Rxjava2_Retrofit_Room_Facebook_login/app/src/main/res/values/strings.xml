@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rxjava2_Retrofit_Room_Facebook_login</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">322683965157316</string>
+    <string name="fb_login_protocol_scheme">fb322683965157316</string>
+    <string name="guest_com">guest@.com</string>
+    <string name="guest">guest</string>
+    <string name="screen1">Screen 1</string>
+    <string name="screen2">Screen 2</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="google_map_key">AIzaSyD5QS1QM5bZbMezoVx7L-JXz3IafvBo0UQ</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="detail">Detail</string>
+    <string name="login">Login Fb</string>
+
+</resources>
